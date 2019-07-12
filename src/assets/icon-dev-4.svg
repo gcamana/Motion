@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 88" style="enable-background:new 0 0 100 88;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.8;fill:#88A0EE;}
+	.st1{opacity:0.2;fill:#4D62C8;enable-background:new    ;}
+	.st2{opacity:0.1;}
+	.st3{fill:url(#path-4_2_);}
+	.st4{fill:url(#path-3_2_);}
+	.st5{fill:url(#path-5_1_);}
+	.st6{fill:url(#path-4_3_);}
+	.st7{fill:url(#path-3_3_);}
+	.st8{fill:url(#path-5_2_);}
+	.st9{opacity:0.6;fill:#88A0EE;}
+	.st10{opacity:0.4;fill:#FFFFFF;enable-background:new    ;}
+
+  .glass-bottom {
+    animation: move-block 10s ease-in infinite;
+  }
+
+   @keyframes move-block {
+            0% {
+                opacity: 0;
+                transform: matrix(1.00, 0.00, 0.00, 1.00, 0, -70);
+            }
+            20% {
+                opacity: 1;
+                transform: matrix(1.00, 0.00, 0.00, 1.00, 0, 0);
+            }
+            60% {
+                opacity: 1;
+                transform: matrix(1.00, 0.00, 0.00, 1.00, 0, 0);
+            }
+            70% {
+                opacity: 0;
+                transform: matrix(1.00, 0.00, 0.00, 1.00, 0, 10);
+            }
+            100% {
+                opacity: 0;
+                transform: matrix(1.00, 0.00, 0.00, 1.00, 0, 10);
+            }
+        }
+
+  .st2 {
+    animation: move-block-op 10s ease-in infinite;
+  }
+
+   @keyframes move-block-op {
+            0% {
+                opacity: 0;
+                transform: matrix(1.00, 0.00, 0.00, 1.00, 0, 0);
+            }
+            20% {
+                opacity: 0;
+                transform: matrix(1.00, 0.00, 0.00, 1.00, 0, 0);
+            }
+            30% {
+                opacity: 0.1;
+                transform: matrix(1.00, 0.00, 0.00, 1.00, 0, 0);
+            }
+            60% {
+                opacity: 0.1;
+                transform: matrix(1.00, 0.00, 0.00, 1.00, 0, 0);
+            }
+            65% {
+                opacity: 0;
+                transform: matrix(1.00, 0.00, 0.00, 1.00, 0, 0);
+            }
+            100% {
+                opacity: 0;
+                transform: matrix(1.00, 0.00, 0.00, 1.00, 0, 0);
+            }
+
+        }
+
+   .main-cube {
+    animation: main-cube 10s ease-in infinite;
+  }
+
+   @keyframes main-cube {
+            0% {
+                opacity: 0;
+                transform: matrix(1.00, 0.00, 0.00, 1.00, 0, -70);
+            }
+            10% {
+                opacity: 0;
+                transform: matrix(1.00, 0.00, 0.00, 1.00, 0, -70);
+            }
+            30% {
+                opacity: 1;
+                transform: matrix(1.00, 0.00, 0.00, 1.00, 0, 0);
+            }
+            60% {
+                opacity: 1;
+                transform: matrix(1.00, 0.00, 0.00, 1.00, 0, 0);
+            }
+            85% {
+                opacity: 0;
+                transform: matrix(1.00, 0.00, 0.00, 1.00, 0, 20);
+            }
+            100% {
+                opacity: 0;
+                transform: matrix(1.00, 0.00, 0.00, 1.00, 0, 20);
+            }
+
+        }
+
+
+    .glass-top {
+    animation: glass-top 10s ease-in infinite;
+  }
+
+   @keyframes glass-top {
+            0% {
+                opacity: 0;
+                transform: matrix(1.00, 0.00, 0.00, 1.00, 0, -70);
+            }
+            20% {
+                opacity: 0;
+                transform: matrix(1.00, 0.00, 0.00, 1.00, 0, -70);
+            }
+            40% {
+                opacity: 1;
+                transform: matrix(1.00, 0.00, 0.00, 1.00, 0, 0);
+            }
+            75% {
+                opacity: 1;
+                transform: matrix(1.00, 0.00, 0.00, 1.00, 0, 0);
+            }
+            95% {
+                opacity: 0;
+                transform: matrix(1.00, 0.00, 0.00, 1.00, 0, 30);
+            }
+            100% {
+                opacity: 0;
+                transform: matrix(1.00, 0.00, 0.00, 1.00, 0, 30);
+            }
+        }
+
+
+
+</style>
+<g>
+	<g class='glass-bottom'>
+		<polygon id="rec" class="st0" points="50,38 100,63 50,88 0,63 		"/>
+		<polygon id="rec_1_" class="st1" points="80,53 98,62 62,80 		"/>
+	</g>
+	<g id="orange_1_" class="st2">
+
+			<linearGradient id="path-4_2_" gradientUnits="userSpaceOnUse" x1="-1416.1" y1="169.2664" x2="-1416.1" y2="168.7664" gradientTransform="matrix(20 0 0 -30 28367 5148)">
+			<stop  offset="0" style="stop-color:#EA4A2E"/>
+			<stop  offset="1" style="stop-color:#FDBF28"/>
+		</linearGradient>
+		<polygon id="path-4_4_" class="st3" points="40,80 50,85 50,75 40,70 		"/>
+
+			<linearGradient id="path-3_2_" gradientUnits="userSpaceOnUse" x1="-1454.425" y1="146.6497" x2="-1454.425" y2="146.1497" gradientTransform="matrix(40 0 0 -20 58227 2998)">
+			<stop  offset="0" style="stop-color:#FDA571"/>
+			<stop  offset="1" style="stop-color:#FDE15B"/>
+		</linearGradient>
+		<polygon id="path-3_5_" class="st4" points="50,65 60,70 50,75 40,70 		"/>
+
+			<linearGradient id="path-5_1_" gradientUnits="userSpaceOnUse" x1="-1416.6" y1="169.2664" x2="-1416.6" y2="168.7664" gradientTransform="matrix(20 0 0 -30 28387 5148)">
+			<stop  offset="7.889470e-04" style="stop-color:#F5855E"/>
+			<stop  offset="1" style="stop-color:#F0C337"/>
+		</linearGradient>
+		<polygon id="path-5_6_" class="st5" points="60,80.1 50,85 50,75 60,70 		"/>
+	</g>
+	<g id="orange_2_" class="main-cube">
+
+			<linearGradient id="path-4_3_" gradientUnits="userSpaceOnUse" x1="-1416.1" y1="170.2666" x2="-1416.1" y2="169.7666" gradientTransform="matrix(20 0 0 -30 28367 5148)">
+			<stop  offset="0" style="stop-color:#EA4A2E"/>
+			<stop  offset="1" style="stop-color:#FDBF28"/>
+		</linearGradient>
+		<polygon id="path-4_1_" class="st6" points="40,50 50,55 50,45 40,40 		"/>
+
+			<linearGradient id="path-3_3_" gradientUnits="userSpaceOnUse" x1="-1454.425" y1="148.1498" x2="-1454.425" y2="147.6498" gradientTransform="matrix(40 0 0 -20 58227 2998)">
+			<stop  offset="0" style="stop-color:#FDA571"/>
+			<stop  offset="1" style="stop-color:#FDE15B"/>
+		</linearGradient>
+		<polygon id="path-3_1_" class="st7" points="50,35 60,40 50,45 40,40 		"/>
+
+			<linearGradient id="path-5_2_" gradientUnits="userSpaceOnUse" x1="-1416.6" y1="170.2666" x2="-1416.6" y2="169.7666" gradientTransform="matrix(20 0 0 -30 28387 5148)">
+			<stop  offset="7.889470e-04" style="stop-color:#F5855E"/>
+			<stop  offset="1" style="stop-color:#F0C337"/>
+		</linearGradient>
+		<polygon id="path-5_3_" class="st8" points="60,50.1 50,55 50,45 60,40 		"/>
+	</g>
+	<g class="glass-top">
+		<polygon id="rec_3_" class="st9" points="50,0 100,25 50,50 0,25 		"/>
+		<polygon id="rec_2_" class="st10" points="53.6,1.8 98,24 50,48 25.2,35.8 		"/>
+	</g>
+</g>
+</svg>

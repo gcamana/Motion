@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="80" height="96"
+	 viewBox="0 0 80 96" style="enable-background:new 0 0 80 96;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.6;fill:url(#path-21_1_);}
+	.st1{opacity:0.6;fill:url(#path-19_1_);}
+	.st2{opacity:0.6;fill:url(#path-20_1_);}
+	.st3{opacity:0.6;fill:url(#path-19_3_);}
+	.st4{opacity:0.6;fill:url(#path-20_2_);}
+	.st5{opacity:0.6;fill:url(#path-21_2_);}
+	.st6{opacity:0.6;fill:url(#path-21_4_);}
+	.st7{opacity:0.6;fill:url(#path-19_9_);}
+	.st8{opacity:0.6;fill:url(#path-20_4_);}
+	.st9{opacity:0.6;fill:url(#path-19_10_);}
+	.st10{opacity:0.6;fill:url(#path-20_5_);}
+	.st11{opacity:0.6;fill:url(#path-21_10_);}
+
+
+	.st12{opacity:0.6;fill:url(#path-21_11_);}
+	.st13{opacity:0.6;fill:url(#path-19_11_);}
+	.st14{opacity:0.6;fill:url(#path-20_11_);}
+	.st15{opacity:0.6;fill:url(#path-19_12_);}
+	.st16{opacity:0.6;fill:url(#path-20_12_);}
+	.st17{opacity:0.6;fill:url(#path-21_12_);}
+
+
+ .first-block {
+  animation: fr-bl 4s ease infinite alternate;
+}
+
+@keyframes fr-bl {
+  0% {
+    transform: matrix(1.00, 0.00, 0.00, 1.00, 0, 1);
+  }
+  100% {
+    transform: matrix(1.00, 0.00, 0.00, 1.00, 0, -5);
+  }
+}
+
+.secons-block {
+  animation: sec-bl 5s ease infinite alternate;
+}
+
+@keyframes sec-bl {
+  0% {
+    transform: matrix(1.00, 0.00, 0.00, 1.00, 0, -5);
+  }
+  100% {
+    transform: matrix(1.00, 0.00, 0.00, 1.00, 0, 2);
+  }
+}
+
+.third-block {
+  animation: th-bl 3s ease infinite alternate;
+}
+
+@keyframes th-bl {
+  0% {
+    transform: matrix(1.00, 0.00, 0.00, 1.00, 0, -1);
+  }
+  100% {
+    transform: matrix(1.00, 0.00, 0.00, 1.00, 0, 1);
+  }
+}
+
+
+</style>
+<g class="third-block ">
+	<linearGradient id="path-21_1_" gradientUnits="userSpaceOnUse" x1="64" y1="72" x2="64" y2="56">
+		<stop  offset="0" style="stop-color:#FEE958"/>
+		<stop  offset="1" style="stop-color:#FD9A74"/>
+	</linearGradient>
+	<polygon id="path-21_5_" class="st0" points="64,56 80,64 64,72 48,64 	"/>
+
+		<linearGradient id="path-19_1_" gradientUnits="userSpaceOnUse" x1="-352.75" y1="339.855" x2="-352.75" y2="341.455" gradientTransform="matrix(16 0 0 -40 5700 13658.2002)">
+		<stop  offset="0" style="stop-color:#F0C339"/>
+		<stop  offset="1" style="stop-color:#F47E5E"/>
+	</linearGradient>
+	<polygon id="path-19_5_" class="st1" points="48,64 64,56 64,0 48,8 	"/>
+	<linearGradient id="path-20_1_" gradientUnits="userSpaceOnUse" x1="72" y1="64.1593" x2="72" y2="-2.929688e-05">
+		<stop  offset="0" style="stop-color:#E4AB25"/>
+		<stop  offset="1" style="stop-color:#EB5F41"/>
+	</linearGradient>
+	<polygon id="path-20_7_" class="st2" points="80,64.2 64,56 64,0 80,8 	"/>
+
+		<linearGradient id="path-19_3_" gradientUnits="userSpaceOnUse" x1="-352.75" y1="339.655" x2="-352.75" y2="341.255" gradientTransform="matrix(16 0 0 -40 5700 13658.2002)">
+		<stop  offset="0" style="stop-color:#E5AA26"/>
+		<stop  offset="1" style="stop-color:#EC5E42"/>
+	</linearGradient>
+	<polygon id="path-19_2_" class="st3" points="48,64 64,72 64,16 48,8 	"/>
+	<linearGradient id="path-20_2_" gradientUnits="userSpaceOnUse" x1="72" y1="72" x2="72" y2="8">
+		<stop  offset="0" style="stop-color:#F0C736"/>
+		<stop  offset="1" style="stop-color:#F47D5E"/>
+	</linearGradient>
+	<polygon id="path-20_3_" class="st4" points="80,64.2 64,72 64,16 80,8 	"/>
+	<linearGradient id="path-21_2_" gradientUnits="userSpaceOnUse" x1="64" y1="16" x2="64" y2="-2.929688e-05">
+		<stop  offset="0" style="stop-color:#FEEA58"/>
+		<stop  offset="1" style="stop-color:#FD9B74"/>
+	</linearGradient>
+	<polygon id="path-21_3_" class="st5" points="64,0 80,8 64,16 48,8 	"/>
+</g>
+
+<g class="secons-block">
+	<linearGradient id="path-21_4_" gradientUnits="userSpaceOnUse" x1="24" y1="76" x2="56" y2="76">
+		<stop  offset="0" style="stop-color:#AB8EDA"/>
+		<stop  offset="1" style="stop-color:#BFA6E7"/>
+	</linearGradient>
+	<polygon id="path-21_9_" class="st6" points="40,68 56,76 40,84 24,76 	"/>
+
+		<linearGradient id="path-19_9_" gradientUnits="userSpaceOnUse" x1="-354.75" y1="340.155" x2="-353.75" y2="340.155" gradientTransform="matrix(16 0 0 -40 5700 13658.2002)">
+		<stop  offset="0" style="stop-color:#856DBB"/>
+		<stop  offset="1" style="stop-color:#9D87CE"/>
+	</linearGradient>
+	<polygon id="path-19_8_" class="st7" points="24,76 40,68 40,28 24,36 	"/>
+	<linearGradient id="path-20_4_" gradientUnits="userSpaceOnUse" x1="40" y1="52.0797" x2="56" y2="52.0797">
+		<stop  offset="0" style="stop-color:#6B549D"/>
+		<stop  offset="1" style="stop-color:#7C65AE"/>
+	</linearGradient>
+	<polygon id="path-20_10_" class="st8" points="56,76.2 40,68 40,28 56,36 	"/>
+
+		<linearGradient id="path-19_10_" gradientUnits="userSpaceOnUse" x1="-354.25" y1="339.355" x2="-354.25" y2="340.555" gradientTransform="matrix(16 0 0 -40 5700 13658.2002)">
+		<stop  offset="0" style="stop-color:#5C4789"/>
+		<stop  offset="1" style="stop-color:#8B76B8"/>
+	</linearGradient>
+	<polygon id="path-19_7_" class="st9" points="24,76 40,84 40,44 24,36 	"/>
+	<linearGradient id="path-20_5_" gradientUnits="userSpaceOnUse" x1="48" y1="84" x2="48" y2="36">
+		<stop  offset="0" style="stop-color:#7A63AD"/>
+		<stop  offset="1" style="stop-color:#AD9AD6"/>
+	</linearGradient>
+	<polygon id="path-20_9_" class="st10" points="56,76.2 40,84 40,44 56,36 	"/>
+	<linearGradient id="path-21_10_" gradientUnits="userSpaceOnUse" x1="40" y1="44" x2="40" y2="28">
+		<stop  offset="0" style="stop-color:#967AC8"/>
+		<stop  offset="1" style="stop-color:#CCB7EC"/>
+	</linearGradient>
+	<polygon id="path-21_8_" class="st11" points="40,28 56,36 40,44 24,36 	"/>
+</g>
+
+
+<g class="first-block">
+	<linearGradient id="path-21_11_" gradientUnits="userSpaceOnUse" x1="0" y1="88" x2="32" y2="88">
+		<stop  offset="0" style="stop-color:#AB8EDA"/>
+		<stop  offset="1" style="stop-color:#BFA6E7"/>
+	</linearGradient>
+	<polygon id="path-21_7_" class="st12" points="16,80 32,88 16,96 0,88 	"/>
+	
+		<linearGradient id="path-19_11_" gradientUnits="userSpaceOnUse" x1="-356.25" y1="339.755" x2="-355.25" y2="339.755" gradientTransform="matrix(16 0 0 -40 5700 13658.2002)">
+		<stop  offset="0" style="stop-color:#856DBB"/>
+		<stop  offset="1" style="stop-color:#9D87CE"/>
+	</linearGradient>
+	<polygon id="path-19_6_" class="st13" points="0,88 16,80 16,48 0,56 	"/>
+	<linearGradient id="path-20_11_" gradientUnits="userSpaceOnUse" x1="16" y1="68.0797" x2="32" y2="68.0797">
+		<stop  offset="0" style="stop-color:#6B549D"/>
+		<stop  offset="1" style="stop-color:#7C65AE"/>
+	</linearGradient>
+	<polygon id="path-20_8_" class="st14" points="32,88.2 16,80 16,48 32,56 	"/>
+	
+		<linearGradient id="path-19_12_" gradientUnits="userSpaceOnUse" x1="-355.75" y1="339.055" x2="-355.75" y2="340.055" gradientTransform="matrix(16 0 0 -40 5700 13658.2002)">
+		<stop  offset="0" style="stop-color:#5C4789"/>
+		<stop  offset="1" style="stop-color:#8B76B8"/>
+	</linearGradient>
+	<polygon id="path-19_4_" class="st15" points="0,88 16,96 16,64 0,56 	"/>
+	<linearGradient id="path-20_12_" gradientUnits="userSpaceOnUse" x1="24" y1="96" x2="24" y2="56">
+		<stop  offset="0" style="stop-color:#7A63AD"/>
+		<stop  offset="1" style="stop-color:#AD9AD6"/>
+	</linearGradient>
+	<polygon id="path-20_6_" class="st16" points="32,88.2 16,96 16,64 32,56 	"/>
+	<linearGradient id="path-21_12_" gradientUnits="userSpaceOnUse" x1="16" y1="64" x2="16" y2="48">
+		<stop  offset="0" style="stop-color:#967AC8"/>
+		<stop  offset="1" style="stop-color:#CCB7EC"/>
+	</linearGradient>
+	<polygon id="path-21_6_" class="st17" points="16,48 32,56 16,64 0,56 	"/>
+</g>
+</svg>
